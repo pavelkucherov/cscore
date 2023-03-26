@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using Frame = CSCore.Tags.ID3.Frames.Frame;
 
 namespace CSCore.Tags.ID3
 {
